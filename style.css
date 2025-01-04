@@ -21,6 +21,7 @@ nav{
 }
 body{
     margin: 0px;
+    padding: 0px;
 }
 header{
     width: 100vw;
@@ -29,4 +30,20 @@ header{
 }
 .main-logo{
     height: 15rem;
+}
+
+.right-section{
+    display: flex;
+    justify-content: center;
+    width: 10px;
+    border: 2px solid black;
+
+.right-section label{
+    width: 150px;
+    margin-right: 10px;
+}
+
+}
+.text{
+    font-size: 20px;
 }
