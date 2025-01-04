@@ -63,8 +63,8 @@ input{
 }
 .loginbutton{
     height: 40px;
-    width: 80px;
-    margin-left: 110px;
+    width: 270px;
+    margin-left: 20px;
     margin-top: 20px;
     display: flex;
     justify-content: center;
@@ -73,7 +73,7 @@ input{
     color: white;
     border-radius: 5px;
     border: none;
-    font-size: 20px;
+    font-size: 23px;
 }
 .create{
     display: flex;
@@ -93,4 +93,9 @@ a{
     display: flex;
     justify-content: center;
     margin-top: 20px;
+}
+hr{
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
