@@ -36,14 +36,8 @@ header{
     display: flex;
     justify-content: center;
     width: 10px;
-    border: 2px solid black;
-
-.right-section label{
-    width: 150px;
-    margin-right: 10px;
+    border: 5px solid black;
 }
-
-}
-.text{
-    font-size: 20px;
+.left-section{
+    
 }
