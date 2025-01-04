@@ -13,6 +13,7 @@
 
 }
 nav{
+  
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -20,4 +21,12 @@ nav{
 }
 body{
     margin: 0px;
+}
+header{
+    width: 100vw;
+    position:fixed;
+    top: 0px;
+}
+.main-logo{
+    height: 15rem;
 }
