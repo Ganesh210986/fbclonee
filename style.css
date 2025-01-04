@@ -1,0 +1,23 @@
+*{
+
+}
+.nav-logo{
+    width: 100px;
+    height: auto;
+}
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    width: 50%;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: antiquewhite;
+}
+body{
+    margin: 0px;
+}
